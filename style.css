@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar{
+    display: flex;
+    font-size: 25px;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+.section1{
+    font-weight: bold;
+    font-size: 27px;
+}
+.section2{
+display: flex;
+gap: 30px;
+}
+.section3 button{
+border: none;
+background-color: rgba(14, 23, 52, 1);
+color: white;
+padding: 10px;
+border-radius: 10px;
+}

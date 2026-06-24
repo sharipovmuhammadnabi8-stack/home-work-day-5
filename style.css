@@ -24,3 +24,42 @@ color: white;
 padding: 10px;
 border-radius: 10px;
 }
+.page1{
+    width: 90%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    gap: 300px;
+    position: relative;
+}
+.space{
+    width: 30%;
+    margin-left: 100px;
+}
+.space h1{
+    font-size: 40px;
+}
+.space p{
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 30px;
+}
+.space button{
+    border: none;
+    background-color: rgba(14, 23, 52, 1);
+color: white;
+padding: 10px;
+width: 110px;
+border-radius: 10px;
+margin-top: 30px;
+}
+.posi1{
+    position: absolute;
+    left: 160px;
+    top: 80px;
+}
+.positonimg{
+    display: flex;
+    gap: 170px;
+    position: relative;
+}
